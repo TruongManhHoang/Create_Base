@@ -110,7 +110,6 @@ flutter:
   #--------------- LOCAL ASSETS ------------------#
   assets:
     - assets/
-    - assets/images/
     - assets/icons/
     - assets/fonts/
     - assets/logos/
